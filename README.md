@@ -18,7 +18,7 @@
 📌 [ETL Pipeline for Healthcare Data](https://github.com/your-repo) - Built an ETL solution integrating patient data  
 
 ## 📫 Let's Connect  
-[LinkedIn](https://linkedin.com/in/your-profile) 
+[LinkedIn](https://www.linkedin.com/in/nivedita-manickam/) 
 
 
 <!---
