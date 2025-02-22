@@ -1,5 +1,5 @@
 # Hi, I'm Nivedita Manickam 👋  
-🚀 Data Analyst | Technical Program Manager | Digital Advertising & Campaign Management  
+🚀 Data Analyst | Technical Program Manager | Business Intelligence Engineer  
 
 ## 🔹 About Me  
 - 🎓 Master of Science in Information Systems  
